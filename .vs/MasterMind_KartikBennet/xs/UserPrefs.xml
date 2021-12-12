@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{15F069A5-786C-4B1A-97F8-4FAB22DAB2B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterMind_KartikBennet/IValidator.cs">
+    <Files>
+      <File FileName="MasterMind_KartikBennet/Program.cs" Line="31" Column="1" />
+      <File FileName="MasterMind_KartikBennet/Mastermind.cs" />
+      <File FileName="MasterMind_KartikBennet/Validator.cs" />
+      <File FileName="MasterMind_KartikBennet/GameResponse.cs" />
+      <File FileName="MasterMind_KartikBennet/IValidator.cs" Line="6" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MasterMind_KartikBennet" expanded="True">
+            <Node name="MasterMind_KartikBennet" expanded="True">
+              <Node name="IValidator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MasterMind__KartikBennet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

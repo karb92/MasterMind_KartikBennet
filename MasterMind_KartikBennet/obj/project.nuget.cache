@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C1xSuGgnyYLDhqG5T48VBDeQaT77/gYYXjrEGsrT/QzwFzhpzNC6zvH5c2o/dO7jJSG5MNC2yF1zPmIcaD/efQ==",
+  "success": true,
+  "projectFilePath": "/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/MasterMind_KartikBennet.csproj",
+  "expectedPackageFiles": [
+    "/Users/kartikbennet/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

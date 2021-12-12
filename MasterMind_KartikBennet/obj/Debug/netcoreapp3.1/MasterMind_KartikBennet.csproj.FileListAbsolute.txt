@@ -1,0 +1,12 @@
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/bin/Debug/netcoreapp3.1/MasterMind_KartikBennet.deps.json
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/bin/Debug/netcoreapp3.1/MasterMind_KartikBennet.runtimeconfig.json
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/bin/Debug/netcoreapp3.1/MasterMind_KartikBennet.runtimeconfig.dev.json
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/bin/Debug/netcoreapp3.1/MasterMind_KartikBennet.dll
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/bin/Debug/netcoreapp3.1/MasterMind_KartikBennet.pdb
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/obj/Debug/netcoreapp3.1/MasterMind_KartikBennet.csproj.AssemblyReference.cache
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/obj/Debug/netcoreapp3.1/MasterMind_KartikBennet.AssemblyInfoInputs.cache
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/obj/Debug/netcoreapp3.1/MasterMind_KartikBennet.AssemblyInfo.cs
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/obj/Debug/netcoreapp3.1/MasterMind_KartikBennet.csproj.CoreCompileInputs.cache
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/obj/Debug/netcoreapp3.1/MasterMind_KartikBennet.dll
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/obj/Debug/netcoreapp3.1/MasterMind_KartikBennet.pdb
+/Users/kartikbennet/Projects/MasterMind_KartikBennet/MasterMind_KartikBennet/obj/Debug/netcoreapp3.1/MasterMind_KartikBennet.genruntimeconfig.cache
